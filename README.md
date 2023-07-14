@@ -1,11 +1,11 @@
-# flutter_ui_project_one
+# Task Manager Mobile flutter
 
-A new Flutter project.
-
-## Getting Started
 
 Desain UI from
 https://www.figma.com/community/file/1025672621370192050
+
+## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
